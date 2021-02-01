@@ -1,0 +1,5 @@
+print(5>10)
+print(True)
+print(False)
+print(10%2==0)
+print(10%9==2)
